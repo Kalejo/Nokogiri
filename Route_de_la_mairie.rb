@@ -24,3 +24,4 @@ end
 puts "annuaire"
 get_all_the_urls_of_val_doise_townhalls
 # doc.css affiche tt les (a.lientxt) et avec puts j'affiches tt les elemnets[href]qui me donne les urls.
+#essais sur github.
